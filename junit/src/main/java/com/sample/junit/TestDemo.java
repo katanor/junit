@@ -6,6 +6,6 @@ public class TestDemo {
 	}
 
 	private static String getName() {
-		return "Welcome to git hub";
+		return "Welcome to git hub repo";
 	}
 }
